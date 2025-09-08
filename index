@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Información sobre Vacunación y Sueros - 2025</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Vacunación, Sueros y Calendario de Vacunación 2025</h1>
+        <nav>
+            <ul>
+                <li><a href="#vacunacion">Vacunación</a></li>
+                <li><a href="#sueros">Sueros</a></li>
+                <li><a href="#creacion">Creación</a></li>
+                <li><a href="#calendario">Calendario 2025</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="vacunacion">
+            <h2>¿Qué es la Vacunación?</h2>
+            <p>
+                La vacunación es un método preventivo que ayuda al cuerpo a desarrollar inmunidad frente a enfermedades infecciosas. 
+                Consiste en la administración de una vacuna, que contiene partes inactivas o debilitadas de un virus o bacteria, 
+                o bien sus toxinas. Estas sustancias estimulan al sistema inmunológico para que aprenda a defenderse si se expone 
+                al agente real en el futuro.
+            </p>
+            <p>
+                <strong>¿Cómo funcionan?</strong> Al recibir una vacuna, el cuerpo produce anticuerpos específicos que 
+                permanecen en la memoria inmunológica, listos para actuar si el organismo se enfrenta a la infección real.
+            </p>
+        </section>
+
+        <section id="sueros">
+            <h2>¿Qué son los Sueros?</h2>
+            <p>
+                Los sueros son soluciones que contienen anticuerpos ya formados y se utilizan como tratamiento pasivo ante 
+                ciertas infecciones o intoxicaciones. A diferencia de las vacunas, que estimulan la producción de defensas, 
+                los sueros proporcionan una protección inmediata pero temporal.
+            </p>
+            <p>
+                <strong>¿Cómo funcionan?</strong> Al administrar el suero, los anticuerpos presentes atacan directamente al patógeno 
+                o toxina en el cuerpo del paciente.
+            </p>
+        </section>
+
+        <section id="creacion">
+            <h2>¿Cómo se crean las Vacunas y los Sueros?</h2>
+            <p>
+                La creación de vacunas y sueros es un proceso científico riguroso que involucra varias etapas para asegurar 
+                su eficacia y seguridad.
+            </p>
+
+            <h3>Creación de Vacunas:</h3>
+            <ul>
+                <li><strong>1. Investigación:</strong> Se estudia el microorganismo causante de la enfermedad.</li>
+                <li><strong>2. Desarrollo del antígeno:</strong> Se obtiene una forma atenuada, inactiva o una proteína del patógeno.</li>
+                <li><strong>3. Producción:</strong> Se cultivan grandes cantidades del antígeno en laboratorios.</li>
+                <li><strong>4. Pruebas clínicas:</strong> Se evalúa la vacuna en varias fases con voluntarios para medir su seguridad y eficacia.</li>
+                <li><strong>5. Aprobación y distribución:</strong> Tras comprobar su efectividad, la vacuna es autorizada por organismos sanitarios.</li>
+            </ul>
+
+            <h3>Creación de Sueros:</h3>
+            <ul>
+                <li><strong>1. Inmunización de animales:</strong> Se introduce el antígeno en animales (como caballos) para que desarrollen anticuerpos.</li>
+                <li><strong>2. Extracción:</strong> Se extrae sangre del animal inmunizado.</li>
+                <li><strong>3. Purificación:</strong> Se separan y purifican los anticuerpos para crear el suero.</li>
+                <li><strong>4. Control de calidad:</strong> Se realizan pruebas para asegurar que el suero es seguro para uso humano.</li>
+            </ul>
+        </section>
+
+        <section id="calendario">
+            <h2>Calendario de Vacunación 2025</h2>
+            <p>
+                El calendario de vacunación establece las vacunas recomendadas según la edad. A continuación, algunos ejemplos para 2025:
+            </p>
+            <ul>
+                <li><strong>Recién nacidos:</strong> BCG (tuberculosis), Hepatitis B.</li>
+                <li><strong>2 meses:</strong> Pentavalente (DTP, Hib, Hepatitis B), Polio, Neumococo.</li>
+                <li><strong>4 meses:</strong> Refuerzo de pentavalente, Polio.</li>
+                <li><strong>6 meses:</strong> Influenza, nuevo refuerzo de pentavalente.</li>
+                <li><strong>12 meses:</strong> Triple viral (sarampión, rubéola, paperas), Hepatitis A.</li>
+                <li><strong>Niños y adolescentes:</strong> Refuerzos de DTP, VPH, y otras según riesgo.</li>
+                <li><strong>Adultos:</strong> Antitetánica, influenza anual, neumococo en mayores de 65 años.</li>
+            </ul>
+            <p>Consulta siempre el calendario oficial de tu país y acude al centro de salud más cercano para actualizaciones.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Mat R</p>
+    </footer>
+</body>
+</html>
